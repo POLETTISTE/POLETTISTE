@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **www.stephanepoletti.com**
 
-- 📫 How to reach me **contact@stephanepoletti.com**
+- 📫 How to reach me **polettiweb@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
