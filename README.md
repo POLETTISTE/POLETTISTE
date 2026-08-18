@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=polettiste&label=Profile%20views&color=0e75b6&style=flat" alt="polettiste" /> </p>
 
-- 🔭 I’m currently working at **www.stephanepoletti.com**
+- 🔭 I’m currently working at **FREELANCE**
 
 - 📫 How to reach me **polettiweb@gmail.com**
 
